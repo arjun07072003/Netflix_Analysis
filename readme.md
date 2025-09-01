@@ -35,3 +35,4 @@ cd netflix-analysis
 pip install pandas matplotlib seaborn
 jupyter notebook Netflix_Analysis.ipynb
 
+
