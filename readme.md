@@ -30,7 +30,8 @@ Explore content trends in the Netflix Movies & TV Shows dataset (from Kaggle) us
 
 ## 🚀 How to Run It
 ```bash
-git clone https://github.com/yourusername/netflix-analysis.git
+git clone https://github.com/arjun07072003/netflix-analysis.git
 cd netflix-analysis
 pip install pandas matplotlib seaborn
 jupyter notebook Netflix_Analysis.ipynb
+
